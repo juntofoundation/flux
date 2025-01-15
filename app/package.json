@@ -17,9 +17,9 @@
   "main": "background.js",
   "dependencies": {
     "@babel/core": "*",
-    "@coasys/ad4m": "0.10.1-rc1",
-    "@coasys/ad4m-connect": "0.10.1-rc1",
-    "@coasys/ad4m-vue-hooks": "0.10.1-rc1",
+    "@coasys/ad4m": "0.10.1-rc2",
+    "@coasys/ad4m-connect": "0.10.1-rc2",
+    "@coasys/ad4m-vue-hooks": "0.10.1-rc2",
     "@capacitor/android": "^6.0.0",
     "@capacitor/cli": "^6.0.0",
     "@capacitor/core": "^6.0.0",

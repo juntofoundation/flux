@@ -43,10 +43,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@coasys/ad4m-react-hooks": "0.10.1-rc2",
     "@coasys/flux-container": "0.10.1-rc1",
     "@coasys/flux-utils": "0.10.1-rc1",
     "@coasys/flux-webrtc": "0.10.1-rc1",
-    "@coasys/ad4m-react-hooks": "0.10.1-rc1",
     "classnames": "^2.3.2",
     "date-fns": "^2.29.3",
     "emoji-picker-element": "^1.14.0",

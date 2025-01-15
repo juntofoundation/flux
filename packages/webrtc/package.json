@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@coasys/ad4m": "0.10.1-rc1",
+    "@coasys/ad4m": "0.10.1-rc2",
     "simple-peer": "^9.11.1"
   }
 }

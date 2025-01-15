@@ -36,7 +36,7 @@
   "description": "",
   "dependencies": {
     "3d-force-graph": "^1.70.19",
-    "@coasys/ad4m": "0.10.1-rc1",
+    "@coasys/ad4m": "0.10.1-rc2",
     "@coasys/flux-container": "0.10.1-rc1",
     "preact": "^10.11.3",
     "three-spritetext": "^1.6.5"

@@ -33,7 +33,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@coasys/ad4m": "0.10.1-rc1",
+    "@coasys/ad4m": "0.10.1-rc2",
+    "@coasys/ad4m-react-hooks": "0.10.1-rc2",
     "@coasys/flux-api": "0.10.1-rc1",
     "@coasys/flux-constants": "0.10.1-rc1",
     "@coasys/flux-container": "0.10.1-rc1",
@@ -42,7 +43,6 @@
     "@coasys/flux-types": "0.10.1-rc1",
     "@coasys/flux-ui": "0.10.1-rc1",
     "@coasys/flux-utils": "0.10.1-rc1",
-    "@coasys/ad4m-react-hooks": "0.10.1-rc1",
     "preact": "^10.13.1",
     "react": "*",
     "react-virtuoso": "^4.3.6"

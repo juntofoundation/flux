@@ -34,8 +34,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@coasys/ad4m": "0.10.1-rc1",
-    "@coasys/ad4m-react-hooks": "0.10.1-rc1",
+    "@coasys/ad4m": "0.10.1-rc2",
+    "@coasys/ad4m-react-hooks": "0.10.1-rc2",
     "@coasys/flux-api": "0.10.1-rc1",
     "d3": "^7.9.0",
     "preact": "^10.13.1"
